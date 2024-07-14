@@ -1,0 +1,62 @@
+[
+    {
+        "id": "el1",
+        "name": "Замок Хогвартс: Большой зал",
+        "img": "https://i.ibb.co/0hTBcXt/hogwarts.jpg",
+        "price": 34999
+    },
+    {
+        "id": "el2",
+        "name": "Музей естественной истории",
+        "img": "https://i.ibb.co/pjRMWj9/museum.jpg",
+        "price": 49999
+    },
+    {
+        "id": "el3",
+        "name": "Венатор — республиканский штурмовой крейсер",
+        "img": "https://i.ibb.co/2hQQnnf/venator.jpg",
+        "price": 89999
+    },
+    {
+        "id": "el4",
+        "name": "Стимпанк: Вокзал",
+        "img": "https://i.ibb.co/FDRQdYx/steampunk.jpg",
+        "price": 16999
+    },
+    {
+        "id": "el5",
+        "name": "Диорама: гонка на подах на Мос-Эспа",
+        "img": "https://i.ibb.co/4ZX5fZ2/pods.jpg",
+        "price": 11999
+    },
+    {
+        "id": "el6",
+        "name": "Властелин колец: Ривенделл",
+        "img": "https://i.ibb.co/j39Hpyj/lotr.jpg",
+        "price": 84999
+    },
+    {
+        "id": "el7",
+        "name": "Орхидея",
+        "img": "https://i.ibb.co/PYJ4Kwn/flower.jpg",
+        "price": 9499
+    },
+    {
+        "id": "el8",
+        "name": "Fiat 500",
+        "img": "https://i.ibb.co/WPjpgJk/fiat.jpg",
+        "price": 23999
+    },
+    {
+        "id": "el9",
+        "name": "Пирамида Хеопса",
+        "img": "https://i.ibb.co/pnXfkMS/pyramid.jpg",
+        "price": 22999
+    },
+    {
+        "id": "el10",
+        "name": "Хогвартс Экспресс",
+        "img": "https://i.ibb.co/BBFBkxz/train.jpg",
+        "price": 79999
+    }
+]
